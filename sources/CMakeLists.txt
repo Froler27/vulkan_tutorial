@@ -1,1 +1,5 @@
-﻿add_subdirectory("00_base_code")
+﻿add_subdirectory(00_base_code)
+add_subdirectory(01_instance_creation)
+add_subdirectory(02_validation_layers)
+add_subdirectory(03_physical_device_selection)
+add_subdirectory(04_logical_device)
